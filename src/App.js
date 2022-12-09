@@ -1,5 +1,5 @@
 import './App.css';
-import { useEffect, setState  } from 'react';
+import { useEffect, useState  } from 'react';
 import { GridPoint, pathfinder, grid } from './components/pathfinder';
 import GridSquare from './components/gridSquare';
 

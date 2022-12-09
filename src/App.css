@@ -12,4 +12,12 @@ body{
   width: 4em;
 }
 
+.start{
+  background-color: blue;
+}
+
+.end{
+  background-color: red;
+}
+
 
